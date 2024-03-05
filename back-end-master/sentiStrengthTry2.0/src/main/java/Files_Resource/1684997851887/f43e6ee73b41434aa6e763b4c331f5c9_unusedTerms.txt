@@ -1,0 +1,2 @@
+Term	TermFreq	BinaryClassDiff (correct-estimate)	BinaryClassAvDiff	CorrectClass-1	CorrectClass1	
+i	2	-2	-1.0	2	0	
